@@ -1,0 +1,76 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+.row {
+	float: left;
+	width: 100%;
+}
+.col { float: left; }
+
+.col-1 { width: 100%; }
+.col-2 { width: 50%; }
+.col-3 { width: 33.333%; }
+.col-4 { width: 25%; }
+.col-5 { width: 20%; }
+.col-6 { width: 16.66%; }
+
+@media screen and (max-width: 480px) {
+	.col-1, .col-2, .col-3, .col-4, .col-5, .col-6 {
+		width: 100%;
+	}
+}
+
+html, body {
+	box-sizing: border-box;
+	font-size: 100%;
+	background: #D2D2D2;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+h1 {
+	text-align: center;
+}
+.col {
+	padding: 10px;
+}
+.card {
+	padding: 15px;
+	background: rgb(247, 247, 247);
+	box-shadow: 2px 2px 5px rgba(0,0,0, .5);
+	border-radius: 2px;
+}
+/* Persons */
+
+#col-ted    h2 { color :#FF5F7F; }
+#col-Seb    h2 { color :#FF67A2; }
+#col-bas    h2 { color :#FF70C5; }
+#col-ant    h2 { color :#F27BD8; }
+#col-mic    h2 { color :#E685EC; }
+#col-jerem  h2 { color :#D990FF; }
+#col-fab    h2 { color :#9E9EFF; }
+#col-dam    h2 { color :#64ACFF; }
+#col-emeric h2 { color :#29BAFF; }
+#fidelId    h2 { color :#1FCCE1; }
+#col-momo   h2 { color :#15DDC4; }
+
+img { max-width: 100%; }
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

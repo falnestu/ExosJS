@@ -1,0 +1,8 @@
+.red {
+	background: rgba(255, 0 ,0 , .4);
+}
+
+.rounded {
+	background: grey;
+	border-radius: 20px;
+}
