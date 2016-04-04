@@ -1,0 +1,21 @@
+div {
+	width:50%;
+	margin:20px auto;
+	height:100px;
+	background: red;
+}
+p {
+	text-align: center;
+	font-size: 30px;
+	line-height: 100px;
+}
+.hidden {
+	opacity:0;
+}
+
+.pos {
+	width:100px;
+	display : inline-block;
+	line-height: 100px;
+	text-align: center;
+}
