@@ -95,10 +95,10 @@ body {
 	border-style:solid;
 }
 
-.color:nth-child(1):after { border-color: #62D9AD;  } /* green */
-.color:nth-child(2):after { border-color: #DC5D4A;  } /* red */
-.color:nth-child(3):after { border-color: #FCEB7B;  } /* yellow */
-.color:nth-child(4):after { border-color: #35BFFD;  } /* blue */
+.color:nth-child(1):after { border-color: #62D9AD;  }
+.color:nth-child(2):after { border-color: #DC5D4A;  }
+.color:nth-child(3):after { border-color: #FCEB7B;  }
+.color:nth-child(4):after { border-color: #35BFFD;  }
 .color:nth-child(5):after { border-color: #F375B3;  }
 .color:nth-child(6):after { border-color: #FF0000;  }
 

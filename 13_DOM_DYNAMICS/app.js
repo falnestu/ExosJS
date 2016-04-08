@@ -27,7 +27,6 @@ var randomColorRGBA = function() {
 	return "rgba("+r+","+g+","+b+","+ Math.random()+")";
 }
 
-
 var damier ="";
 for (var i = 0; i < ROWS; i++) {
 	for (var j = 0; j < COLUMS; j++) {

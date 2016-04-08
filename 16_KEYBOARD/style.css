@@ -1,0 +1,13 @@
+div {
+	width:100px;
+	height:100px;
+	background: red;
+}
+
+.highlight {
+	opacity: 0.2;
+}
+
+.rounded {
+	border-radius: 50%;
+}
